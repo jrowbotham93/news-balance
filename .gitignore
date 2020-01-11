@@ -212,6 +212,8 @@ env.bak/
 venv.bak/
 pip-selfcheck.json
 
+migration.sql
+
 
 # End of https://www.gitignore.io/api/venv,pycharm
 
