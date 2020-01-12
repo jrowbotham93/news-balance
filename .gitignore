@@ -214,9 +214,8 @@ pip-selfcheck.json
 
 migration.sql
 .idea
+.env.dev
+.env.prod
+.env.prod.db
 
 # End of https://www.gitignore.io/api/venv,pycharm
-
-
-# End of https://www.gitignore.io/api/python.idea
-.idea
